@@ -1,0 +1,46 @@
+_metadata:
+  major_version: 1
+  minor_version: 1
+
+display_information:
+  name: OpenClaw Main Router
+  description: Main routing agent for multi-project orchestration
+  background_color: "#111827"
+
+features:
+  bot_user:
+    display_name: Main Router
+    always_online: false
+  slash_commands:
+    - command: /main
+      description: Send a task to main router agent
+      usage_hint: /main <task>
+      should_escape: false
+
+oauth_config:
+  scopes:
+    bot:
+      - app_mentions:read
+      - channels:history
+      - groups:history
+      - im:history
+      - mpim:history
+      - chat:write
+      - channels:join
+      - reactions:write
+      - users:read
+      - users:read.email
+
+settings:
+  event_subscriptions:
+    bot_events:
+      - app_mention
+      - message.channels
+      - message.groups
+      - message.im
+      - message.mpim
+  interactivity:
+    is_enabled: false
+  org_deploy_enabled: false
+  socket_mode_enabled: true
+  token_rotation_enabled: false
