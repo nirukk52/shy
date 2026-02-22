@@ -50,8 +50,10 @@ Always include:
 
 ## Commands
 
-Use bundled script:
+Use bundled scripts:
 - `scripts/mastra_chat.sh discover`
 - `scripts/mastra_chat.sh chat "<agentName>" "<message>" [threadId]`
+- `scripts/mastra_thread_chat.sh "<conversationKey>" "<agentName>" "<message>"`
+  - Auto-loads/saves thread IDs in `data/threads.json` (override with `MASTRA_THREAD_STORE`)
 
 Read `references/payloads.md` for exact request bodies.
