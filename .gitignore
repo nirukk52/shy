@@ -1,2 +1,5 @@
 .env
 2026-02-23_*.json
+deep_*.json
+deep_research_*
+sheet_*.json
