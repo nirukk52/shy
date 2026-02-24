@@ -29,3 +29,30 @@ Growth + content operations copilot for local menswear clients (starting with Ga
 - Learn patterns from competitors; do not copy scripts/visuals verbatim
 - Maintain a reusable "content brain" so generation stays on-brand
 - Track performance weekly and update templates based on outcomes
+
+## Business Knowledge (Ganpati Collection For Mens)
+### Client
+- Name: Ganpati Collection For Mens
+- Location: FWXV+VRQ, NH 65, Bankar Colony, Utkarsh Nagar, Hadapsar, Pune 411028
+- Instagram: `@ganapti_collection_for_mens`
+
+### Competitor Set (tracked)
+- `@ts_cloth_house`
+- `@ak_wedding_design`
+- `@hightone.nx`
+- `@shrikant_tailors_official`
+
+### Funnel Targets
+- Walk-ins
+- Instagram DMs
+- Comments expressing intent ("interested", "price", etc.)
+
+### Offer/Production Reality
+- Strong tailoring capability; can create custom or slightly modified trend-inspired products
+- Product priorities: Sherwani, Suit, Kurta, Wedding wear
+- Audience language: Marathi-first (Puneri tone), with light English
+
+### Creative Direction
+- Content types: product-only, avatar-influencer, voiceover-led
+- Avoid: explicit price mention, direct competitor comparisons
+- High-priority CTAs: "DM WEDDING", "Comment INTERESTED", "DM event date"
