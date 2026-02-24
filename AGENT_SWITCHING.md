@@ -29,5 +29,9 @@ oc-pa "Plan groceries for this week"
 ```
 
 ## Next step for true selection behavior
-Add routing bindings so specific channels/peers always land on `personal-agent`.
-For example: one WhatsApp group or one DM peer -> personal-agent.
+Add routing bindings so specific channels/peers always land on the intended specialist agent.
+For example: one WhatsApp group or one DM peer -> `personal-agent`.
+
+## Morya PA docs
+- Charter: `agents/morya-pa/CHARTER.md`
+- Research persistence: `agents/morya-pa/RESEARCH_STACK.md`
