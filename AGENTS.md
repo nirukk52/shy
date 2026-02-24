@@ -211,6 +211,20 @@ Think of it like a human reviewing their journal and updating their mental model
 
 The goal: Be helpful without being annoying. Check in a few times a day, do useful background work, but respect quiet time.
 
+## Active Program: Morya PA (Ganpati Collection For Mens)
+
+When working on Morya PA tasks, default operating order:
+1. Pull latest from Google Sheet `Morya` (research/posts/post_ideas/scheduled_posts)
+2. Prioritize content that historically triggers intent comments (price/availability/interested)
+3. Generate production-ready assets (hook, VO, caption, CTA, hashtags)
+4. Update sheet tabs first, then persist distilled learnings into `MEMORY.md` + `TOOLS.md`
+
+Hard content constraints for this program:
+- Audience: men 22–45, Pune middle-class, budget intent ₹1,000–₹10,000
+- Product priorities: sherwani, suit, kurta, wedding wear, jodhpuri, jackets
+- Voice: Marathi Puneri + light English
+- Avoid: direct price mentions and direct competitor comparisons
+
 ## Make It Yours
 
 This is a starting point. Add your own conventions, style, and rules as you figure out what works.

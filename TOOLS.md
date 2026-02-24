@@ -63,5 +63,16 @@ Add whatever helps you do your job. This is your cheat sheet.
 - shrikant_tailors_official
 
 ### Persistence Protocol
-- Primary data store: Google Sheets (accounts/reels_raw/patterns/assets/calendar/performance)
+- Primary data store: Google Sheets (active tabs now: `research`, `posts`, `post_ideas`, `scheduled_posts`)
+- Spreadsheet: `Morya` (`1_kLhGTKQjxHDuh5I3SI6av24DqfvLKwqA38Z6AAhRgs`)
 - Versioned local snapshots: `research/morya-pa/YYYY-MM-DD/`
+
+### Google Automation Notes
+- Google account for gog: `niranjankurambhatti@gmail.com`
+- OAuth client secret path used for setup:
+  `/Users/priyankalalge/Projects/Claw/client_secret_607016448037-3j515ra4uouigkgljfnu7ojq4da6s7nb.apps.googleusercontent.com.json`
+
+### Competitor Insight Snapshot (from deep scrape)
+- Highest intent-comment conversion pattern: Shrikant Tailors (price/availability comments on kurta/jodhpuri/jacket content)
+- Highest reach benchmark patterns: TS Cloth House + Hightone NX
+- Winning product-intent topics: wedding, kurta, traditional, sherwani, jodhpuri, jackets, groom styling
