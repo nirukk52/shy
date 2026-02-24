@@ -29,3 +29,6 @@ Decision:
 Reason:
 Next step:
 Approval needed: Yes/No
+
+This is your db: https://docs.google.com/spreadsheets/d/1_kLhGTKQjxHDuh5I3SI6av24DqfvLKwqA38Z6AAhRgs/edit?usp=sharing
+keep updating it as you work feel free to create new pages in that sheets.
