@@ -9,6 +9,11 @@
 - Tabs: `research`, `posts`, `post_ideas`, `scheduled_posts`
 - Local snapshots: `research/morya-pa/YYYY-MM-DD/`
 
+## Google Drive
+- Assets folder: https://drive.google.com/drive/folders/1P-G24z7rehbS5UzgX8JkQRcRA6P-KAKk
+- Folder ID: `1P-G24z7rehbS5UzgX8JkQRcRA6P-KAKk`
+- Use for: finished reels, posts, thumbnails, brand assets
+
 ## CTA Keywords (standardized)
 - `WEDDING` (DM trigger)
 - `INTERESTED` (comment trigger)
